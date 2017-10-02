@@ -14,6 +14,7 @@ git clone https://github.com/cbwang2016/shadowsocks-manager-jsjapp.git
 ```
 cp ./shadowsocks-manager-jsjapp/index.js ./shadowsocks-manager/plugin/alipay/index.js
 ```
+### 3. View more details on https://github.com/shadowsocks/shadowsocks-manager
 ## Demo webgui config file
 ```
   webgui:
